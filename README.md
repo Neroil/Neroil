@@ -23,8 +23,3 @@ Key features:
 ---
 
 ### 📍 Based in Vaud, Switzerland — open to on-site, hybrid, or remote
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neroil&show_icons=true&hide_border=true&theme=default)](https://github.com/neroil)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neroil&layout=compact&hide_border=true&theme=default)](https://github.com/neroil)
-
